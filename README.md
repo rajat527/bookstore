@@ -22,4 +22,8 @@ npm start
 npm run createSuperadmin
 
 ## Postman Collection
+project has 
+Book store apis.postman_collection.json 
+import this json file into postman for apis.
 
+## Project has sample env file to work with
